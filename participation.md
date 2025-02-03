@@ -36,7 +36,12 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class Tuesday
 	+ Introduced myself to Yusuf on Thursday
 - Week 3
+	+ Attended class Thursday
+	+ Attended class Tuesday
+
 - Week 4
+	+ Attended class Thursday
+	+ Attended class Tuesday
 - Week 5
 - Week 6
 - Week 7
