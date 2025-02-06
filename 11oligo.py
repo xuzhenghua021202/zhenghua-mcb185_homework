@@ -1,7 +1,5 @@
 def tm(a, c, g, t):
 	length = a + c + g + t
-	if length <= 13:
-		return 3
 	
 	if length <= 13: 
 		temp = (a + t) * 2 + (g + c) * 4
@@ -12,5 +10,5 @@ def tm(a, c, g, t):
 		return temp
 		
 t = tm(5, 7, 3, 4)
-print(tm(5, 7, 3, 4))
+print(tm(0, 0, 0, 0))
 	
