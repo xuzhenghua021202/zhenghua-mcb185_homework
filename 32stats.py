@@ -28,3 +28,16 @@ mean_value = total / len(main)
 
 print(f'mean value:{mean_value:f}')
 	
+variance = sum((x - mean_value) ** 2 for x in main) / len(main)
+std_dev = math.sqrt(variance)
+print(f'Standard Deviation: {std_dev:f}')
+
+sorted_main = sorted(main)
+n = len(sorted_main)
+if n % 2 ==1:
+	median = sorted_main[n // 2]
+else: 
+	median = (sorted_main[n // 2-1] + sorted_main[n // 2]) / 2
+
+print(f'Median value: {median:f}')
+
