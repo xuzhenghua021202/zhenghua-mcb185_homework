@@ -21,5 +21,5 @@ for t in range(trials):
 	if collision: 
 		shared += 1
 			
-print(shared/float(trials))
+print(shared/trials)
 
