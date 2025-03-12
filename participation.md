@@ -38,13 +38,42 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 3
 	+ Attended class Thursday
 	+ Attended class Tuesday
+	+  Assessed in class
 
 - Week 4
 	+ Attended class Thursday
+	+  Asked a question in class
 	+ Attended class Tuesday
+	+  Asked a question in class
 - Week 5
+	+ Attended class Thursday
+	+  Asked a question in class
+	+ Attended class Tuesday
+	+  Asked a question in class
 - Week 6
+	+ Attended class Thursday
+	+ Assessed in class
+	+ Asked a question in class
+	+ Attended class Thursday
+	+ Asked a question in class
+	
 - Week 7
+	+ Attended class Tuesday
+	+  Asked a question in class
+	+ Attended class Thursday
+	+ Assessed in class
+	
 - Week 8
+	+ Attended class on Tuesday
+	+ Asked a question in class
+	+ Attended class on Thursday
+	+ Asked a question in class
 - Week 9
+	+ Attended class on Tuesday
+	+ Asked a question in class
+	+ Attended class on Thursday
+	+ Asked a question in class
 - Week 10
+	+ Attended class on Tuesday
+	+ Asked a question in class
+
