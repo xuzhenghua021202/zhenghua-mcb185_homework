@@ -28,4 +28,4 @@ def kd(seq):
 for defline, seq in mcb185.read_fasta(fasta_file):
 	if trans_region(seq[:30], 8, 2.5) and trans_region(seq[30:], 11, 2.0):
 		print(defline)
-	
+
